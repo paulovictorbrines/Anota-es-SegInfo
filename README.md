@@ -4,4 +4,4 @@ Minhas anotações pessoais sobre Cyber Security e Redes de Computadores que ven
 Caso tenha sugestões ou possua alguma informação errada no arquivo entre em contato no e-mail paulovictorfs@outlook.com.
 
 ## Link:
-https://1drv.ms/w/s!AmGe6fF-_FozxXTt8I8hZHk7DBrf?e=VBNw51 ou http://bit.ly/3L7u375
+http://bit.ly/3L7u375 ou https://1drv.ms/w/s!AmGe6fF-_FozxXTt8I8hZHk7DBrf?e=VBNw51
