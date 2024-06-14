@@ -1,6 +1,6 @@
 # Cyber_Security_Notes
 
-Minhas anotações pessoais sobre Cyber Security e Redes de Computadores que venho construindo desde março de 2022, possuindo comandos de windows e linux, protocolos de rede, nome de ferramentas, nomenclaturas, conceitos, etc.
+Minhas anotações pessoais sobre Cyber Security e Redes de Computadores que venho construindo desde março de 2022, possuindo comandos de Windows e Linux, protocolos de rede, ferramentas, nomenclaturas, conceitos, etc.
 
 ## • Link: https://1drv.ms/w/s!AmGe6fF-_FozxXTt8I8hZHk7DBrf?e=VBNw51
 
